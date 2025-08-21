@@ -10,7 +10,9 @@
 
 ---
 
-💻<img src="https://readme-typing-svg.herokuapp.com?color=F7F7F7&size=24&center=true&vCenter=true&width=500&height=50&lines=Programming+Languages;C%23%2C+Java%2C+Python%2C+JS...;Cloud+Services;Problem+Solving+with+Tech">
+### 💻 Programming Languages
+
+<img src="https://readme-typing-svg.herokuapp.com?color=F7F7F7&size=20&width=450&lines=C#;;C%23;JavaScript;HTML+%2F+CSS" />
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/>
