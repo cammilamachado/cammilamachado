@@ -2,15 +2,9 @@
   <img src="https://pa1.aminoapps.com/6493/1ea239d4c28186844fc4cece2c78453297a99027_hq.gif" width="200"/>
 </p>
 
-
 ---
 
-### 👩‍💻 Sobre mim
-
-
----
-
-<img src="https://readme-typing-svg.herokuapp.com?color=F7F7F7&size=20&width=380&lines=💻+Programming+Languages" />
+<img src="https://readme-typing-svg.herokuapp.com?color=F7F7F7&size=20&width=380&lines=👩‍💻+Programming+Languages" />
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/>
