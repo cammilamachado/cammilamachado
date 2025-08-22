@@ -20,7 +20,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
 </div>
 
-
+<br><br>
 
 <img src="https://readme-typing-svg.herokuapp.com?color=F7F7F7&size=20&width=220&lines=✉️+Contact+Me" />
 
