@@ -14,7 +14,6 @@
 </div>
 
 <br>
----
 
 <img src="https://readme-typing-svg.herokuapp.com?color=F7F7F7&size=20&width=220&lines=✉️+Contact+Me" />
 
