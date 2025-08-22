@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEduSbSGpGaRX2Vri/giphy.gif" width="200"/>
+  <img src="https://media.tenor.com/29Ok5pc0ivAAAAAM/gatinho-gato.gif" width="200"/>
 </p>
 
 
