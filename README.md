@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.tenor.com/29Ok5pc0ivAAAAAM/gatinho-gato.gif" width="200"/>
+  <img src="https://pa1.aminoapps.com/6493/1ea239d4c28186844fc4cece2c78453297a99027_hq.gif" width="200"/>
 </p>
 
 
