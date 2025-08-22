@@ -20,10 +20,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
 </div>
 
+
+
 <img src="https://readme-typing-svg.herokuapp.com?color=F7F7F7&size=20&width=220&lines=✉️+Contact+Me" />
 
 <a href="https://www.linkedin.com/in/cammilamachado/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="24" alt="LinkedIn" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" alt="LinkedIn" />
 </a>
 
 
