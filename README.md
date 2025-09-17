@@ -8,7 +8,7 @@
 * E-mail: camsmpm@gmail.com
 ---
 
-## 💻 Linguagens de Programação
+## 👩‍💻 Linguagens de Programação
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50"/>
