@@ -29,11 +29,9 @@
 <!-- Figma -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/> 
 <!-- Trello -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="40" style="margin-right: 10px;"/>
 <!-- Google Drive -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Google_Drive_logo.png" width="40"/>
-<!-- Miro  -->
-<img src="https://w7.pngwing.com/pngs/613/411/png-transparent-miro-app-logo-tech-companies-thumbnail.png" width="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Google_Drive_logo.png" width="40" style="margin-right: 10px;"/>
   
 </p>
 
