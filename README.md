@@ -23,7 +23,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn" />
 </a>
 
-## 🛠 Tools
+## ⌨️ Tools
+
+<p align = "left">
 <!-- Figma -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/> 
 <!-- Trello -->
@@ -32,11 +34,9 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Google_Drive_logo.png" width="40"/>
 <!-- Miro  -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Miro_logo.svg/512px-Miro_logo.svg.png" width="40"/>
-
+  
+</p>
 ---
-
-## 🎵 
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/31bnmnbtmjmt7khzzv3asagpwyxm?si=aSzYP46BTfKtdiKYLKqgOQ)
 
 
 
