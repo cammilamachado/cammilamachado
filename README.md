@@ -2,6 +2,8 @@
   <img src="https://pa1.aminoapps.com/6493/1ea239d4c28186844fc4cece2c78453297a99027_hq.gif" width="200"/>
 </p>
 
+
+
 ---
 
 <img src="https://readme-typing-svg.herokuapp.com?color=F7F7F7&size=20&width=380&lines=👩‍💻+Programming+Languages" />
@@ -15,12 +17,29 @@
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?color=F7F7F7&size=20&width=220&lines=✉️+Contact+Me" />
+<img src="https://readme-typing-svg.herokuapp.com?color=F7F7F7&size=20&width=220&lines=🌐+Contact+Me" />
 
 <a href="https://www.linkedin.com/in/cammilamachado/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn" />
 </a>
 
+## 🛠 Tools
+<!-- Figma -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/> 
+<!-- Trello -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="40"/>
+<!-- Google Drive -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Google_Drive_logo.png" width="40"/>
+<!-- Miro  -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Miro_logo.svg/512px-Miro_logo.svg.png" width="40"/>
+
+---
+
+## 🎵 
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/31bnmnbtmjmt7khzzv3asagpwyxm?si=aSzYP46BTfKtdiKYLKqgOQ)
 
 
-</div>
+
+
+
+
