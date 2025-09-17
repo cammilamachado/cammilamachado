@@ -6,7 +6,7 @@
 
 ---
 
-<img src="https://readme-typing-svg.herokuapp.com?color=F7F7F7&size=20&width=380&lines=👩‍💻+Programming+Languages" />
+## Linguagens de Programação
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50"/>
@@ -17,14 +17,14 @@
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?color=F7F7F7&size=20&width=220&lines=🌐+Contact+Me" />
+## Contato
 
 <a href="https://www.linkedin.com/in/cammilamachado/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" alt="LinkedIn" />
 </a>
 
 
-<img src="https://readme-typing-svg.herokuapp.com?color=F7F7F7&size=20&width=380&lines=Tools+" />
+## Ferramentas
 
 <p align = "left">
 <!-- Figma -->
