@@ -2,7 +2,8 @@
   <img src="https://pa1.aminoapps.com/6493/1ea239d4c28186844fc4cece2c78453297a99027_hq.gif" width="200"/>
 </p>
 
-<p align="center"> Meu nome é Camila Machado, sou estudante de Análise e Desenvolvimento de Sistemas na PUC Minas, onde realizo projetos semestrais que simulam desafios reais do mercado, aplicando metodologias ágeis, modelagem de dados e desenvolvimento de aplicações. Sou dedicada, organizada e busco sempre entregar soluções de qualidade.</p>
+<p align="center"> Meu nome é Camila Machado, sou estudante de Análise e Desenvolvimento de Sistemas na PUC Minas, onde realizo projetos semestrais que simulam desafios reais do mercado, aplicando metodologias ágeis, modelagem de dados e desenvolvimento de aplicações. </p>
+  <p align="center"> Sou dedicada, organizada e busco sempre entregar soluções de qualidade.</p>
 
 ---
 
