@@ -19,14 +19,14 @@
 
 <br>
 
-## ☎️ Contato
+## 📫 Contato
 
 <a href="https://www.linkedin.com/in/cammilamachado/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" alt="LinkedIn" />
 </a>
 
 
-## ⚙️ Ferramentas
+## Ferramentas
 
 <p align = "left">
 <!-- Figma -->
