@@ -38,6 +38,12 @@
   
 </p>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cammilamachado&theme=radical)](https://git.io/streak-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cammilamachado&layout=compact&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cammilamachado&layout=compact&theme=radical)
+
 
 
 
