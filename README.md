@@ -29,9 +29,9 @@
 <!-- Figma -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/> 
 <!-- Trello -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="40" style="margin-right: 10px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="40" style="margin-right: 20px;"/>
 <!-- Google Drive -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Google_Drive_logo.png" width="40" style="margin-right: 10px;"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Google_Drive_logo.png" width="40" style="margin-right: 20px;"/>
   
 </p>
 
