@@ -5,7 +5,7 @@
 <p align="center"> Meu nome é Camila Machado, sou estudante de Análise e Desenvolvimento de Sistemas na PUC Minas, onde realizo projetos semestrais que simulam desafios reais do mercado, aplicando metodologias ágeis, modelagem de dados e desenvolvimento de aplicações. </p>
   <p align="center"> Sou dedicada, organizada e busco sempre entregar soluções de qualidade.</p>
   
-* 📫 E-mail: camsmpm@gmail.com
+* E-mail: camsmpm@gmail.com
 ---
 
 ## 💻 Linguagens de Programação
@@ -19,7 +19,7 @@
 
 <br>
 
-## Contato
+## 💌 Contato
 
 <a href="https://www.linkedin.com/in/cammilamachado/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" alt="LinkedIn" />
