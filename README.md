@@ -29,8 +29,6 @@
 ## 📂 Ferramentas
 
 <p align="left">
-  <!-- Visual Studio Code -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/>
   <!-- Visual Studio 2022 -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="50"/>
   <!-- Figma -->
