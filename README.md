@@ -33,10 +33,10 @@
 <!-- Google Drive -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Google_Drive_logo.png" width="40"/>
 <!-- Miro  -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Miro_logo.svg/512px-Miro_logo.svg.png" width="40"/>
+<img src="https://w7.pngwing.com/pngs/613/411/png-transparent-miro-app-logo-tech-companies.png" width="40"/>
   
 </p>
----
+
 
 
 
