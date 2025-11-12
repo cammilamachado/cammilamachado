@@ -8,17 +8,6 @@
 * **E-mail:** camsmpm@gmail.com
 ---
 
-## 💻 Linguagens de Programação
-
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
-</div>
-
-<br>
-
 ## 💌 Contato
 
 <a href="https://www.linkedin.com/in/cammilamachado/" target="_blank">
