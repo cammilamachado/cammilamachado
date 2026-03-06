@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://pa1.aminoapps.com/6493/1ea239d4c28186844fc4cece2c78453297a99027_hq.gif" width="200"/>
+  <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/0*q8OpUkQLsZGEaabZ.gif" width="200"/>
 </p>
 
   <p align="center"> Meu nome é Camila Machado, sou estudante de Análise e Desenvolvimento de Sistemas na PUC Minas, onde realizo projetos semestrais que simulam desafios reais do mercado, aplicando metodologias ágeis, modelagem de dados e desenvolvimento de aplicações. </p>
