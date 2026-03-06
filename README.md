@@ -3,24 +3,10 @@
 </p>
 
   <p align="center"> Meu nome é Camila Machado, sou estudante de Análise e Desenvolvimento de Sistemas na PUC Minas, onde realizo projetos semestrais que simulam desafios reais do mercado, aplicando metodologias ágeis, modelagem de dados e desenvolvimento de aplicações. </p>
-  <p align="center"> Sou dedicada, organizada e busco sempre entregar soluções de qualidade.</p>
+
   
 * **E-mail: 💌** camsmpm@gmail.com
 ---
-
-## 📂 Ferramentas
-
-<p align="left">
-  <!-- Visual Studio 2022 -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="50"/>
-  <!-- Figma -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50"/> 
-  <!-- Git -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
-  <!-- Trello -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="50"/>
-
-</p>
 
   
 
